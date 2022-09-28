@@ -1,0 +1,22 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.container {
+  width: 800px;
+  margin: 20px auto;
+}
+
+h1,
+input {
+  margin: 20px 0px;
+}
+
+button {
+  margin-left: 15px;
+}
+
+.wrapper {
+  text-align: center;
+}
