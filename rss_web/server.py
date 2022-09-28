@@ -27,7 +27,6 @@ def rss_read():
 
 @app.route('/result')
 def result():
-    print(session)
     return render_template('result.html', all_data=session['data'])
 
 
